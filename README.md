@@ -44,8 +44,7 @@ Engagement Score = (Likes × 4) + (Comments × 3) + (Shares × 5) + (Watch Time 
 ## 💡 Conclusion
 This project demonstrates how data analytics can optimize social media strategies. By focusing on high-performing content types, audience segments, and posting times, engagement can be significantly improved.
 
-## 🔗 Project Link
-(Add your GitHub repository link here)
+## 🔗 Project Link - https://colab.research.google.com/drive/1rKtE09_WNNgkXRjLuL0uQYNYDrKgHS3H 
 
 ## 📌 Future Improvements
 - Apply machine learning models to predict engagement  
